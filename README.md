@@ -1,6 +1,26 @@
-# Sample Hardhat Project
+# Deployments
+## Polygon Cardano 
+Address: 0x8EfeDa44da53cDCC3eaF9dA2856CcABeA3F8A495
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Etherscan: https://etherscan.io/address/0x8EfeDa44da53cDCC3eaF9dA2856CcABeA3F8A495
+
+## Lumio
+Address:
+
+Etherscan: 
+
+## Avail
+Address:
+
+Etherscan: 
+
+## CoreDAO
+Address:
+
+Etherscan: 
+
+
+
 
 Try running some of the following tasks:
 
