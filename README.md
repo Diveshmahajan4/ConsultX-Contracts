@@ -15,9 +15,9 @@ Address:
 Etherscan: 
 
 ## CoreDAO
-Address:
+Address: 0xf2844A560bC59819Cfade04A958a72A79F045e84
 
-Etherscan: 
+Etherscan: https://etherscan.io/address/0xf2844A560bC59819Cfade04A958a72A79F045e84
 
 
 
