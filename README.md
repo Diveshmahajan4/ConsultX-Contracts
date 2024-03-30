@@ -2,7 +2,7 @@
 ## Polygon Cardano 
 Address: 0x8EfeDa44da53cDCC3eaF9dA2856CcABeA3F8A495
 
-Explorer: 
+Explorer: https://cardona-zkevm.polygonscan.com/tx/0x092917e07d29e987640f388c661945897d5298c151021974af6e8cc56713ed15
 
 ## Lumio
 Address: 0xD91b50609BBf26F8C584666085394bfBCD51BbfA
@@ -17,17 +17,7 @@ Explorer: https://op-avail-sepolia-explorer.alt.technology/address/0x87206F929B0
 ## CoreDAO
 Address: 0xf2844A560bC59819Cfade04A958a72A79F045e84
 
-Explorer: 
+Explorer: https://scan.test.btcs.network/tx/0x07d9d16a20055eec7cddf1a28b495cd1808cadb90af4ae5a8c6aceb70ed43bc7
 
+##
 
-
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
