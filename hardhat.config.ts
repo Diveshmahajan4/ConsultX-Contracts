@@ -27,6 +27,11 @@ const config: HardhatUserConfig = {
       chainId: 1115,
       accounts: [process.env.WALLET_KEY as string],
     },
+    mumbai: {
+      url: `https://polygon-mumbai.g.alchemy.com/v2/${process.env.POLYGON_API_KEY as string}`,
+      chainId: 80001,
+      accounts: [process.env.WALLET_KEY as string],
+    },
   },
   defaultNetwork: "hardhat",
 };
