@@ -8,9 +8,9 @@ Explorer: https://cardona-zkevm.polygonscan.com/tx/0x352B73bA99524BF7a44A217F10D
 
 ## Lumio
 
-Address: `0xD91b50609BBf26F8C584666085394bfBCD51BbfA`
+Address: `0xfa0313A6010b173e0aF912f5399a10d40176a978`
 
-Explorer: https://explorer.testnet.lumio.io/address/0xD91b50609BBf26F8C584666085394bfBCD51BbfA
+Explorer: https://explorer.testnet.lumio.io/address/0xfa0313A6010b173e0aF912f5399a10d40176a978
 
 ## Avail
 
